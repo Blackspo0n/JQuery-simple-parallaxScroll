@@ -1,7 +1,7 @@
-# JQuery_Simple_parallaxScroll
+# JQuery-Simple-parallaxScroll
 Very alpha of a smooth parallaxscroll. Useable for creating nice parallax headers.
 
-# How To use
+# How to use
 Define a container with a inner container:
 ```html
 <div id="parallax">
