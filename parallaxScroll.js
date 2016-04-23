@@ -48,7 +48,7 @@
 
         return this.each(function () {
             console.log(this);
-            var options = jQuery.extend(true, {}, jQuery.fn.parallaxScroll.methods, jQuery.fn.parallaxScroll.methods, options);
+            var options = jQuery.extend(true, {}, options);
 
             jQuery.data(this, 'options', {
                 options: options
