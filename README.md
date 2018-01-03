@@ -2,7 +2,7 @@
 Very alpha of a smooth parallaxscroll. Useable for creating nice parallax headers.
 
 # How to use
-Define a container with a inner container:
+Define a container with an inner container:
 ```html
 <div id="parallax">
   <div></div>
